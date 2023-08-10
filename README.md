@@ -66,11 +66,11 @@ python main.py
 ```
 
 Ao rodar esse pedaço de código,  vai ser gerado um endereço http, que copiaremos e abriremos em um novo brouse, onde poderemos ver o resultado da nossa aplicação:
+
    
 
-```
-Give an example
-```
+![Exemplo da nossa saída](https://github.com/Kelly002/API/blob/main/api.png)
+
 O código completo da aplicação será disponibilizado dentro deste projeto.
 
 ## Construido com:
