@@ -40,8 +40,7 @@ Em seguida, construimos a route, por onde as informações irão trafegar:
 @app.route('/')
 ```
 
-Na sequência, criamos a função, que será executada. Nesse caso, nossa função faz apenas um printe:  
-### Minha primeira aplicação
+Na sequência, criamos a função, que será executada. Nesse caso, nossa função faz apenas um printe: **Minha primeira aplicação**
 
 Que será impressa utilizando a função return
 
